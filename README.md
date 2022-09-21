@@ -21,7 +21,7 @@
 
 开启
 
-![image-20220922002025907](https://user-images.githubusercontent.com/78201553/191558953-03402b2b-c3d8-4ad3-b872-f54f8ea728eb.png)
+![image](https://user-images.githubusercontent.com/78201553/191561562-61d701d8-90f8-4102-828d-ff4ac675b7f3.png)
 
 添加key
 
